@@ -1,0 +1,27 @@
+.nav-flex {
+    background: rgb(102, 63, 128);
+    color: white;
+    padding: 15px 0px;
+    margin-bottom: 10px;
+}
+
+.nav-flex > ul {
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0px 0 0 10px;
+}
+
+.nav-flex > ul > li {
+    margin: 10px;
+    list-style-type: none;
+}
+
+h3 {
+    margin: 0 10px 0 0;
+}
+
+a {
+    text-decoration: none;
+    color: white !important;
+}
